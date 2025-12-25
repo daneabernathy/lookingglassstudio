@@ -16,6 +16,7 @@ Thumbs.db
 .sublime-project
 .sublime-workspace
 .editorconfig
+*.code-workspace
 
 # Node (if using build tools)
 node_modules/
