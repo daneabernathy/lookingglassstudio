@@ -27,8 +27,6 @@ package-lock.json
 # Build/dist directories
 dist/
 build/
-*.min.js
-*.min.css
 
 # Temporary files
 *.tmp
